@@ -1,0 +1,13 @@
+body, 
+ul {
+    font: Arial, Verdana, sans-serif;
+    background-color: rgb(3, 3, 36);
+    color:white;
+    text-align: center;
+    font-size: 32px;
+}
+
+img {
+    height: auto;
+    width: 750px;
+}
