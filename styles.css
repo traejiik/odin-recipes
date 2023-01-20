@@ -15,6 +15,10 @@ h1 {
     text-align: center;
 }
 
+h2 {
+    text-decoration: underline;
+}
+
 .subtitle {
     font-weight: bold;
     font-size: 28px;
